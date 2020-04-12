@@ -1,22 +1,4 @@
 {
-  "Chamonix - Mont Blanc": [
-    {
-      "width": 5152,
-      "height": 2898,
-      "path": "./photos/Chamonix - Mont Blanc/IMG_20160528_085254.jpg",
-      "compressed_path": "./photos/Chamonix - Mont Blanc/IMG_20160528_085254.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Chamonix - Mont Blanc/IMG_20160528_085254.placeholder.jpg"
-    },
-    {
-      "width": 5152,
-      "height": 2898,
-      "path": "./photos/Chamonix - Mont Blanc/IMG_20160528_095255-2.jpg",
-      "compressed_path": "./photos/Chamonix - Mont Blanc/IMG_20160528_095255-2.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Chamonix - Mont Blanc/IMG_20160528_095255-2.placeholder.jpg"
-    }
-  ],
   "Egypt": [
     {
       "width": 3464,
@@ -213,14 +195,6 @@
     {
       "width": 4618,
       "height": 3464,
-      "path": "./photos/Egypt/R_DSC00773.jpg",
-      "compressed_path": "./photos/Egypt/R_DSC00773.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Egypt/R_DSC00773.placeholder.jpg"
-    },
-    {
-      "width": 4618,
-      "height": 3464,
       "path": "./photos/Egypt/R_DSC00779.jpg",
       "compressed_path": "./photos/Egypt/R_DSC00779.min.jpg",
       "compressed": false,
@@ -265,14 +239,6 @@
       "compressed_path": "./photos/Egypt/R_DSC00844.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Egypt/R_DSC00844.placeholder.jpg"
-    },
-    {
-      "width": 4618,
-      "height": 3464,
-      "path": "./photos/Egypt/R_DSC00849.jpg",
-      "compressed_path": "./photos/Egypt/R_DSC00849.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Egypt/R_DSC00849.placeholder.jpg"
     },
     {
       "width": 3464,
@@ -324,14 +290,6 @@
     }
   ],
   "India": [
-    {
-      "width": 3464,
-      "height": 4618,
-      "path": "./photos/India/DSC00053.jpg",
-      "compressed_path": "./photos/India/DSC00053.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/India/DSC00053.placeholder.jpg"
-    },
     {
       "width": 4618,
       "height": 3464,
@@ -735,14 +693,6 @@
     {
       "width": 3464,
       "height": 4618,
-      "path": "./photos/India/R_DSC01611.jpg",
-      "compressed_path": "./photos/India/R_DSC01611.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/India/R_DSC01611.placeholder.jpg"
-    },
-    {
-      "width": 3464,
-      "height": 4618,
       "path": "./photos/India/R_DSC01639.jpg",
       "compressed_path": "./photos/India/R_DSC01639.min.jpg",
       "compressed": false,
@@ -789,14 +739,6 @@
       "compressed_path": "./photos/Ireland/R_DSC01569.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ireland/R_DSC01569.placeholder.jpg"
-    },
-    {
-      "width": 4618,
-      "height": 3464,
-      "path": "./photos/Ireland/R_DSC01570.jpg",
-      "compressed_path": "./photos/Ireland/R_DSC01570.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Ireland/R_DSC01570.placeholder.jpg"
     },
     {
       "width": 3464,
@@ -1241,38 +1183,6 @@
       "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0247.placeholder.jpg"
     },
     {
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos/Israel and Jordan/R_YDXJ0297.jpg",
-      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0297.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0297.placeholder.jpg"
-    },
-    {
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos/Israel and Jordan/R_YDXJ0312.jpg",
-      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0312.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0312.placeholder.jpg"
-    },
-    {
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos/Israel and Jordan/R_YDXJ0326.jpg",
-      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0326.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0326.placeholder.jpg"
-    },
-    {
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos/Israel and Jordan/R_YDXJ0353.jpg",
-      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0353.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0353.placeholder.jpg"
-    },
-    {
       "width": 3371,
       "height": 2528,
       "path": "./photos/Israel and Jordan/R_YDXJ0669.jpg",
@@ -1467,6 +1377,14 @@
       "placeholder_path": "./photos/Japan/IMG_20160909_102936.placeholder.jpg"
     },
     {
+      "width": 4604,
+      "height": 3474,
+      "path": "./photos/Japan/IMG_20160909_191238.jpg",
+      "compressed_path": "./photos/Japan/IMG_20160909_191238.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/IMG_20160909_191238.placeholder.jpg"
+    },
+    {
       "width": 4469,
       "height": 3579,
       "path": "./photos/Japan/IMG_20160909_202254.jpg",
@@ -1645,34 +1563,10 @@
     {
       "width": 4608,
       "height": 3456,
-      "path": "./photos/Japan/R_YDXJ0179.jpg",
-      "compressed_path": "./photos/Japan/R_YDXJ0179.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Japan/R_YDXJ0179.placeholder.jpg"
-    },
-    {
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos/Japan/R_YDXJ0205.jpg",
-      "compressed_path": "./photos/Japan/R_YDXJ0205.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Japan/R_YDXJ0205.placeholder.jpg"
-    },
-    {
-      "width": 4608,
-      "height": 3456,
       "path": "./photos/Japan/R_YDXJ0244.jpg",
       "compressed_path": "./photos/Japan/R_YDXJ0244.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Japan/R_YDXJ0244.placeholder.jpg"
-    },
-    {
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos/Japan/R_YDXJ0259.jpg",
-      "compressed_path": "./photos/Japan/R_YDXJ0259.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Japan/R_YDXJ0259.placeholder.jpg"
     },
     {
       "width": 4608,
@@ -1721,22 +1615,6 @@
       "compressed_path": "./photos/Japan/R_YDXJ0566.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Japan/R_YDXJ0566.placeholder.jpg"
-    },
-    {
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos/Japan/R_YDXJ0576.jpg",
-      "compressed_path": "./photos/Japan/R_YDXJ0576.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Japan/R_YDXJ0576.placeholder.jpg"
-    },
-    {
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos/Japan/R_YDXJ0685.jpg",
-      "compressed_path": "./photos/Japan/R_YDXJ0685.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Japan/R_YDXJ0685.placeholder.jpg"
     },
     {
       "width": 4608,
@@ -1869,22 +1747,6 @@
       "placeholder_path": "./photos/Kirghizistan/R_DSC02365.placeholder.jpg"
     },
     {
-      "width": 5152,
-      "height": 2898,
-      "path": "./photos/Kirghizistan/R_DSC02373.jpg",
-      "compressed_path": "./photos/Kirghizistan/R_DSC02373.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Kirghizistan/R_DSC02373.placeholder.jpg"
-    },
-    {
-      "width": 4618,
-      "height": 3464,
-      "path": "./photos/Kirghizistan/R_DSC02395.jpg",
-      "compressed_path": "./photos/Kirghizistan/R_DSC02395.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Kirghizistan/R_DSC02395.placeholder.jpg"
-    },
-    {
       "width": 4618,
       "height": 3464,
       "path": "./photos/Kirghizistan/R_DSC02398.jpg",
@@ -1911,14 +1773,6 @@
     {
       "width": 4618,
       "height": 3464,
-      "path": "./photos/Kirghizistan/R_DSC02411.jpg",
-      "compressed_path": "./photos/Kirghizistan/R_DSC02411.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Kirghizistan/R_DSC02411.placeholder.jpg"
-    },
-    {
-      "width": 4618,
-      "height": 3464,
       "path": "./photos/Kirghizistan/R_DSC02416.jpg",
       "compressed_path": "./photos/Kirghizistan/R_DSC02416.min.jpg",
       "compressed": false,
@@ -1931,14 +1785,6 @@
       "compressed_path": "./photos/Kirghizistan/R_DSC02425.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Kirghizistan/R_DSC02425.placeholder.jpg"
-    },
-    {
-      "width": 4618,
-      "height": 3464,
-      "path": "./photos/Kirghizistan/R_DSC02436.jpg",
-      "compressed_path": "./photos/Kirghizistan/R_DSC02436.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Kirghizistan/R_DSC02436.placeholder.jpg"
     },
     {
       "width": 5152,
@@ -1967,26 +1813,10 @@
     {
       "width": 4618,
       "height": 3464,
-      "path": "./photos/Kirghizistan/R_DSC02571.jpg",
-      "compressed_path": "./photos/Kirghizistan/R_DSC02571.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Kirghizistan/R_DSC02571.placeholder.jpg"
-    },
-    {
-      "width": 4618,
-      "height": 3464,
       "path": "./photos/Kirghizistan/R_DSC02596.jpg",
       "compressed_path": "./photos/Kirghizistan/R_DSC02596.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Kirghizistan/R_DSC02596.placeholder.jpg"
-    },
-    {
-      "width": 5152,
-      "height": 2898,
-      "path": "./photos/Kirghizistan/R_DSC02612.jpg",
-      "compressed_path": "./photos/Kirghizistan/R_DSC02612.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Kirghizistan/R_DSC02612.placeholder.jpg"
     },
     {
       "width": 5152,
@@ -2011,14 +1841,6 @@
       "compressed_path": "./photos/Kirghizistan/R_DSC02710.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Kirghizistan/R_DSC02710.placeholder.jpg"
-    },
-    {
-      "width": 4618,
-      "height": 3464,
-      "path": "./photos/Kirghizistan/R_DSC02728.jpg",
-      "compressed_path": "./photos/Kirghizistan/R_DSC02728.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Kirghizistan/R_DSC02728.placeholder.jpg"
     },
     {
       "width": 5152,
@@ -2123,57 +1945,9 @@
       "compressed_path": "./photos/Kirghizistan/R_DSC03332.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Kirghizistan/R_DSC03332.placeholder.jpg"
-    },
-    {
-      "width": 7512,
-      "height": 2129,
-      "path": "./photos/Kirghizistan/R_IMG_20170825_120051.jpg",
-      "compressed_path": "./photos/Kirghizistan/R_IMG_20170825_120051.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Kirghizistan/R_IMG_20170825_120051.placeholder.jpg"
-    },
-    {
-      "width": 8444,
-      "height": 1894,
-      "path": "./photos/Kirghizistan/R_IMG_20170827_174155.jpg",
-      "compressed_path": "./photos/Kirghizistan/R_IMG_20170827_174155.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Kirghizistan/R_IMG_20170827_174155.placeholder.jpg"
-    },
-    {
-      "width": 3968,
-      "height": 2976,
-      "path": "./photos/Kirghizistan/R_IMG_20170827_174209.jpg",
-      "compressed_path": "./photos/Kirghizistan/R_IMG_20170827_174209.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Kirghizistan/R_IMG_20170827_174209.placeholder.jpg"
-    },
-    {
-      "width": 8401,
-      "height": 1904,
-      "path": "./photos/Kirghizistan/R_IMG_20170828_142256.jpg",
-      "compressed_path": "./photos/Kirghizistan/R_IMG_20170828_142256.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Kirghizistan/R_IMG_20170828_142256.placeholder.jpg"
-    },
-    {
-      "width": 8246,
-      "height": 1940,
-      "path": "./photos/Kirghizistan/R_IMG_20170830_113411.jpg",
-      "compressed_path": "./photos/Kirghizistan/R_IMG_20170830_113411.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Kirghizistan/R_IMG_20170830_113411.placeholder.jpg"
     }
   ],
   "Madeira": [
-    {
-      "width": 3648,
-      "height": 2052,
-      "path": "./photos/Madeira/R_DSC00351.jpg",
-      "compressed_path": "./photos/Madeira/R_DSC00351.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Madeira/R_DSC00351.placeholder.jpg"
-    },
     {
       "width": 3648,
       "height": 2736,
@@ -2207,28 +1981,12 @@
       "placeholder_path": "./photos/Madeira/R_DSC00440.placeholder.jpg"
     },
     {
-      "width": 3648,
-      "height": 2736,
-      "path": "./photos/Madeira/R_DSC00504.jpg",
-      "compressed_path": "./photos/Madeira/R_DSC00504.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Madeira/R_DSC00504.placeholder.jpg"
-    },
-    {
       "width": 2736,
       "height": 3648,
       "path": "./photos/Madeira/R_DSC00516.jpg",
       "compressed_path": "./photos/Madeira/R_DSC00516.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Madeira/R_DSC00516.placeholder.jpg"
-    },
-    {
-      "width": 3648,
-      "height": 2280,
-      "path": "./photos/Madeira/R_DSC00540.jpg",
-      "compressed_path": "./photos/Madeira/R_DSC00540.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Madeira/R_DSC00540.placeholder.jpg"
     },
     {
       "width": 3648,
@@ -2311,14 +2069,6 @@
       "placeholder_path": "./photos/Madeira/R_DSC00990.placeholder.jpg"
     },
     {
-      "width": 3648,
-      "height": 2052,
-      "path": "./photos/Madeira/R_DSC01172.jpg",
-      "compressed_path": "./photos/Madeira/R_DSC01172.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Madeira/R_DSC01172.placeholder.jpg"
-    },
-    {
       "width": 4618,
       "height": 3464,
       "path": "./photos/Madeira/R_DSC01230.jpg",
@@ -2359,22 +2109,6 @@
       "placeholder_path": "./photos/Madeira/R_DSC01369.placeholder.jpg"
     },
     {
-      "width": 5152,
-      "height": 2898,
-      "path": "./photos/Madeira/R_DSC01397.jpg",
-      "compressed_path": "./photos/Madeira/R_DSC01397.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Madeira/R_DSC01397.placeholder.jpg"
-    },
-    {
-      "width": 4513,
-      "height": 2821,
-      "path": "./photos/Madeira/R_DSC01417.jpg",
-      "compressed_path": "./photos/Madeira/R_DSC01417.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Madeira/R_DSC01417.placeholder.jpg"
-    },
-    {
       "width": 3464,
       "height": 4618,
       "path": "./photos/Madeira/R_DSC01471.jpg",
@@ -2409,14 +2143,6 @@
     {
       "width": 3968,
       "height": 2240,
-      "path": "./photos/Madeira/R_IMG_20180513_141354.jpg",
-      "compressed_path": "./photos/Madeira/R_IMG_20180513_141354.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Madeira/R_IMG_20180513_141354.placeholder.jpg"
-    },
-    {
-      "width": 3968,
-      "height": 2240,
       "path": "./photos/Madeira/R_IMG_20180514_144923.jpg",
       "compressed_path": "./photos/Madeira/R_IMG_20180514_144923.min.jpg",
       "compressed": false,
@@ -2445,6 +2171,24 @@
       "compressed_path": "./photos/Madeira/R_IMG_20180518_223225.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Madeira/R_IMG_20180518_223225.placeholder.jpg"
+    }
+  ],
+  "Mont Blanc - Chamonix": [
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Mont Blanc - Chamonix/IMG_20160528_085254.jpg",
+      "compressed_path": "./photos/Mont Blanc - Chamonix/IMG_20160528_085254.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mont Blanc - Chamonix/IMG_20160528_085254.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Mont Blanc - Chamonix/IMG_20160528_095255-2.jpg",
+      "compressed_path": "./photos/Mont Blanc - Chamonix/IMG_20160528_095255-2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mont Blanc - Chamonix/IMG_20160528_095255-2.placeholder.jpg"
     }
   ],
   "Morroco": [
@@ -2591,14 +2335,6 @@
       "compressed_path": "./photos/Morroco/R_DSC00425.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Morroco/R_DSC00425.placeholder.jpg"
-    },
-    {
-      "width": 4618,
-      "height": 3464,
-      "path": "./photos/Morroco/R_DSC00428.jpg",
-      "compressed_path": "./photos/Morroco/R_DSC00428.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Morroco/R_DSC00428.placeholder.jpg"
     },
     {
       "width": 3464,
