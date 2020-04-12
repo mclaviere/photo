@@ -289,6 +289,128 @@
       "placeholder_path": "./photos/Egypt/R_DSC00923.placeholder.jpg"
     }
   ],
+  "Greece": [
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Greece/DSC03462.jpg",
+      "compressed_path": "./photos/Greece/DSC03462.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/DSC03462.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Greece/DSC03489.jpg",
+      "compressed_path": "./photos/Greece/DSC03489.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/DSC03489.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Greece/DSC03586.jpg",
+      "compressed_path": "./photos/Greece/DSC03586.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/DSC03586.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Greece/DSC03629.jpg",
+      "compressed_path": "./photos/Greece/DSC03629.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/DSC03629.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Greece/DSC03773.jpg",
+      "compressed_path": "./photos/Greece/DSC03773.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/DSC03773.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Greece/DSC03808.jpg",
+      "compressed_path": "./photos/Greece/DSC03808.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/DSC03808.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Greece/DSC03874.jpg",
+      "compressed_path": "./photos/Greece/DSC03874.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/DSC03874.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Greece/DSC04014.jpg",
+      "compressed_path": "./photos/Greece/DSC04014.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/DSC04014.placeholder.jpg"
+    },
+    {
+      "width": 4828,
+      "height": 2716,
+      "path": "./photos/Greece/DSC04150.jpg",
+      "compressed_path": "./photos/Greece/DSC04150.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/DSC04150.placeholder.jpg"
+    },
+    {
+      "width": 4627,
+      "height": 2603,
+      "path": "./photos/Greece/DSC04224.jpg",
+      "compressed_path": "./photos/Greece/DSC04224.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/DSC04224.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Greece/DSC04231.jpg",
+      "compressed_path": "./photos/Greece/DSC04231.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/DSC04231.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Greece/DSC04233.jpg",
+      "compressed_path": "./photos/Greece/DSC04233.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/DSC04233.placeholder.jpg"
+    },
+    {
+      "width": 5059,
+      "height": 3162,
+      "path": "./photos/Greece/DSC04541.jpg",
+      "compressed_path": "./photos/Greece/DSC04541.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/DSC04541.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Greece/DSC04553.jpg",
+      "compressed_path": "./photos/Greece/DSC04553.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/DSC04553.placeholder.jpg"
+    },
+    {
+      "width": 3968,
+      "height": 2976,
+      "path": "./photos/Greece/IMG_20180103_171614.jpg",
+      "compressed_path": "./photos/Greece/IMG_20180103_171614.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/IMG_20180103_171614.placeholder.jpg"
+    }
+  ],
   "India": [
     {
       "width": 4618,
