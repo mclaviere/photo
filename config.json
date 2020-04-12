@@ -1,20 +1,20 @@
 {
-  "Mont Blanc": [
+  "Chamonix - Mont Blanc": [
     {
       "width": 5152,
       "height": 2898,
-      "path": "./photos/Mont Blanc/IMG_20160528_085254.jpg",
-      "compressed_path": "./photos/Mont Blanc/IMG_20160528_085254.min.jpg",
+      "path": "./photos/Chamonix - Mont Blanc/IMG_20160528_085254.jpg",
+      "compressed_path": "./photos/Chamonix - Mont Blanc/IMG_20160528_085254.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Mont Blanc/IMG_20160528_085254.placeholder.jpg"
+      "placeholder_path": "./photos/Chamonix - Mont Blanc/IMG_20160528_085254.placeholder.jpg"
     },
     {
       "width": 5152,
       "height": 2898,
-      "path": "./photos/Mont Blanc/IMG_20160528_095255-2.jpg",
-      "compressed_path": "./photos/Mont Blanc/IMG_20160528_095255-2.min.jpg",
+      "path": "./photos/Chamonix - Mont Blanc/IMG_20160528_095255-2.jpg",
+      "compressed_path": "./photos/Chamonix - Mont Blanc/IMG_20160528_095255-2.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Mont Blanc/IMG_20160528_095255-2.placeholder.jpg"
+      "placeholder_path": "./photos/Chamonix - Mont Blanc/IMG_20160528_095255-2.placeholder.jpg"
     }
   ]
 }
