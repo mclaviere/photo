@@ -341,14 +341,6 @@
     {
       "width": 5152,
       "height": 2898,
-      "path": "./photos/Greece/DSC03874.jpg",
-      "compressed_path": "./photos/Greece/DSC03874.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Greece/DSC03874.placeholder.jpg"
-    },
-    {
-      "width": 5152,
-      "height": 2898,
       "path": "./photos/Greece/DSC04014.jpg",
       "compressed_path": "./photos/Greece/DSC04014.min.jpg",
       "compressed": false,
@@ -361,14 +353,6 @@
       "compressed_path": "./photos/Greece/DSC04150.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Greece/DSC04150.placeholder.jpg"
-    },
-    {
-      "width": 4627,
-      "height": 2603,
-      "path": "./photos/Greece/DSC04224.jpg",
-      "compressed_path": "./photos/Greece/DSC04224.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Greece/DSC04224.placeholder.jpg"
     },
     {
       "width": 4618,
