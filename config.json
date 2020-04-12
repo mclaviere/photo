@@ -1,20 +1,3296 @@
 {
-  "TEST": [
+  "Chamonix - Mont Blanc": [
     {
       "width": 5152,
       "height": 2898,
-      "path": "./photos/TEST/IMG_20160528_085254.jpg",
-      "compressed_path": "./photos/TEST/IMG_20160528_085254.min.jpg",
+      "path": "./photos/Chamonix - Mont Blanc/IMG_20160528_085254.jpg",
+      "compressed_path": "./photos/Chamonix - Mont Blanc/IMG_20160528_085254.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/TEST/IMG_20160528_085254.placeholder.jpg"
+      "placeholder_path": "./photos/Chamonix - Mont Blanc/IMG_20160528_085254.placeholder.jpg"
     },
     {
       "width": 5152,
       "height": 2898,
-      "path": "./photos/TEST/IMG_20160528_095255-2.jpg",
-      "compressed_path": "./photos/TEST/IMG_20160528_095255-2.min.jpg",
+      "path": "./photos/Chamonix - Mont Blanc/IMG_20160528_095255-2.jpg",
+      "compressed_path": "./photos/Chamonix - Mont Blanc/IMG_20160528_095255-2.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/TEST/IMG_20160528_095255-2.placeholder.jpg"
+      "placeholder_path": "./photos/Chamonix - Mont Blanc/IMG_20160528_095255-2.placeholder.jpg"
+    }
+  ],
+  "Egypt": [
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00487.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00487.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00487.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00506.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00506.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00506.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00510.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00510.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00510.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00519.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00519.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00519.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Egypt/R_DSC00545.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00545.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00545.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Egypt/R_DSC00549.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00549.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00549.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00565.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00565.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00565.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00575.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00575.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00575.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00622.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00622.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00622.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00636.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00636.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00636.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00639.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00639.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00639.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Egypt/R_DSC00655.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00655.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00655.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00668.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00668.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00668.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00671.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00671.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00671.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Egypt/R_DSC00685.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00685.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00685.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00687.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00687.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00687.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Egypt/R_DSC00692.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00692.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00692.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Egypt/R_DSC00708.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00708.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00708.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Egypt/R_DSC00715.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00715.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00715.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Egypt/R_DSC00726.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00726.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00726.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00734.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00734.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00734.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00746.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00746.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00746.placeholder.jpg"
+    },
+    {
+      "width": 3463,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00763.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00763.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00763.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00768.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00768.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00768.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Egypt/R_DSC00773.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00773.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00773.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Egypt/R_DSC00779.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00779.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00779.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00806.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00806.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00806.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00823.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00823.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00823.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00825.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00825.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00825.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Egypt/R_DSC00842.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00842.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00842.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Egypt/R_DSC00844.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00844.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00844.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Egypt/R_DSC00849.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00849.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00849.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00856.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00856.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00856.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00859.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00859.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00859.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00867.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00867.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00867.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00893.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00893.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00893.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00909.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00909.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00909.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Egypt/R_DSC00923.jpg",
+      "compressed_path": "./photos/Egypt/R_DSC00923.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Egypt/R_DSC00923.placeholder.jpg"
+    }
+  ],
+  "India": [
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/DSC00053.jpg",
+      "compressed_path": "./photos/India/DSC00053.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/DSC00053.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/India/DSC00141.jpg",
+      "compressed_path": "./photos/India/DSC00141.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/DSC00141.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/India/DSC00142.jpg",
+      "compressed_path": "./photos/India/DSC00142.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/DSC00142.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/DSC00160.jpg",
+      "compressed_path": "./photos/India/DSC00160.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/DSC00160.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/India/DSC00174.jpg",
+      "compressed_path": "./photos/India/DSC00174.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/DSC00174.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/India/DSC00176.jpg",
+      "compressed_path": "./photos/India/DSC00176.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/DSC00176.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC00249.jpg",
+      "compressed_path": "./photos/India/R_DSC00249.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00249.placeholder.jpg"
+    },
+    {
+      "width": 2128,
+      "height": 2837,
+      "path": "./photos/India/R_DSC00285.jpg",
+      "compressed_path": "./photos/India/R_DSC00285.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00285.placeholder.jpg"
+    },
+    {
+      "width": 3564,
+      "height": 2005,
+      "path": "./photos/India/R_DSC00287.jpg",
+      "compressed_path": "./photos/India/R_DSC00287.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00287.placeholder.jpg"
+    },
+    {
+      "width": 5132,
+      "height": 2887,
+      "path": "./photos/India/R_DSC00303.jpg",
+      "compressed_path": "./photos/India/R_DSC00303.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00303.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3463,
+      "path": "./photos/India/R_DSC00371.jpg",
+      "compressed_path": "./photos/India/R_DSC00371.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00371.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/India/R_DSC00409.jpg",
+      "compressed_path": "./photos/India/R_DSC00409.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00409.placeholder.jpg"
+    },
+    {
+      "width": 4237,
+      "height": 3178,
+      "path": "./photos/India/R_DSC00420.jpg",
+      "compressed_path": "./photos/India/R_DSC00420.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00420.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/India/R_DSC00427.jpg",
+      "compressed_path": "./photos/India/R_DSC00427.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00427.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC00441.jpg",
+      "compressed_path": "./photos/India/R_DSC00441.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00441.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC00456.jpg",
+      "compressed_path": "./photos/India/R_DSC00456.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00456.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC00518.jpg",
+      "compressed_path": "./photos/India/R_DSC00518.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00518.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC00551.jpg",
+      "compressed_path": "./photos/India/R_DSC00551.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00551.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC00557.jpg",
+      "compressed_path": "./photos/India/R_DSC00557.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00557.placeholder.jpg"
+    },
+    {
+      "width": 5141,
+      "height": 2892,
+      "path": "./photos/India/R_DSC00566.jpg",
+      "compressed_path": "./photos/India/R_DSC00566.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00566.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC00580.jpg",
+      "compressed_path": "./photos/India/R_DSC00580.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00580.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/India/R_DSC00582.jpg",
+      "compressed_path": "./photos/India/R_DSC00582.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00582.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/India/R_DSC00680.jpg",
+      "compressed_path": "./photos/India/R_DSC00680.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00680.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC00693.jpg",
+      "compressed_path": "./photos/India/R_DSC00693.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00693.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/India/R_DSC00734.jpg",
+      "compressed_path": "./photos/India/R_DSC00734.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00734.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC00741.jpg",
+      "compressed_path": "./photos/India/R_DSC00741.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00741.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/India/R_DSC00759.jpg",
+      "compressed_path": "./photos/India/R_DSC00759.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00759.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC00779.jpg",
+      "compressed_path": "./photos/India/R_DSC00779.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00779.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC00804.jpg",
+      "compressed_path": "./photos/India/R_DSC00804.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00804.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/India/R_DSC00830.jpg",
+      "compressed_path": "./photos/India/R_DSC00830.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00830.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC00942.jpg",
+      "compressed_path": "./photos/India/R_DSC00942.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC00942.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC01085.jpg",
+      "compressed_path": "./photos/India/R_DSC01085.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01085.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/India/R_DSC01131.jpg",
+      "compressed_path": "./photos/India/R_DSC01131.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01131.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC01169.jpg",
+      "compressed_path": "./photos/India/R_DSC01169.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01169.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC01188.jpg",
+      "compressed_path": "./photos/India/R_DSC01188.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01188.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC01215.jpg",
+      "compressed_path": "./photos/India/R_DSC01215.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01215.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/India/R_DSC01217.jpg",
+      "compressed_path": "./photos/India/R_DSC01217.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01217.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/India/R_DSC01234.jpg",
+      "compressed_path": "./photos/India/R_DSC01234.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01234.placeholder.jpg"
+    },
+    {
+      "width": 5098,
+      "height": 2868,
+      "path": "./photos/India/R_DSC01248.jpg",
+      "compressed_path": "./photos/India/R_DSC01248.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01248.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/India/R_DSC01258.jpg",
+      "compressed_path": "./photos/India/R_DSC01258.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01258.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/India/R_DSC01259.jpg",
+      "compressed_path": "./photos/India/R_DSC01259.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01259.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC01266.jpg",
+      "compressed_path": "./photos/India/R_DSC01266.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01266.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC01271.jpg",
+      "compressed_path": "./photos/India/R_DSC01271.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01271.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/India/R_DSC01289.jpg",
+      "compressed_path": "./photos/India/R_DSC01289.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01289.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/India/R_DSC01318.jpg",
+      "compressed_path": "./photos/India/R_DSC01318.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01318.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC01337.jpg",
+      "compressed_path": "./photos/India/R_DSC01337.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01337.placeholder.jpg"
+    },
+    {
+      "width": 4580,
+      "height": 3435,
+      "path": "./photos/India/R_DSC01409.jpg",
+      "compressed_path": "./photos/India/R_DSC01409.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01409.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/India/R_DSC01435.jpg",
+      "compressed_path": "./photos/India/R_DSC01435.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01435.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/India/R_DSC01458.jpg",
+      "compressed_path": "./photos/India/R_DSC01458.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01458.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC01552.jpg",
+      "compressed_path": "./photos/India/R_DSC01552.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01552.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC01562.jpg",
+      "compressed_path": "./photos/India/R_DSC01562.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01562.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC01611.jpg",
+      "compressed_path": "./photos/India/R_DSC01611.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01611.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC01639.jpg",
+      "compressed_path": "./photos/India/R_DSC01639.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01639.placeholder.jpg"
+    },
+    {
+      "width": 5141,
+      "height": 2892,
+      "path": "./photos/India/R_DSC01682.jpg",
+      "compressed_path": "./photos/India/R_DSC01682.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01682.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/India/R_DSC01706.jpg",
+      "compressed_path": "./photos/India/R_DSC01706.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/India/R_DSC01706.placeholder.jpg"
+    }
+  ],
+  "Ireland": [
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Ireland/R_DSC01531.jpg",
+      "compressed_path": "./photos/Ireland/R_DSC01531.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ireland/R_DSC01531.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Ireland/R_DSC01545.jpg",
+      "compressed_path": "./photos/Ireland/R_DSC01545.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ireland/R_DSC01545.placeholder.jpg"
+    },
+    {
+      "width": 3401,
+      "height": 4534,
+      "path": "./photos/Ireland/R_DSC01569.jpg",
+      "compressed_path": "./photos/Ireland/R_DSC01569.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ireland/R_DSC01569.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Ireland/R_DSC01570.jpg",
+      "compressed_path": "./photos/Ireland/R_DSC01570.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ireland/R_DSC01570.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Ireland/R_DSC01602.jpg",
+      "compressed_path": "./photos/Ireland/R_DSC01602.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ireland/R_DSC01602.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Ireland/R_DSC01624.jpg",
+      "compressed_path": "./photos/Ireland/R_DSC01624.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ireland/R_DSC01624.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Ireland/R_DSC01635.jpg",
+      "compressed_path": "./photos/Ireland/R_DSC01635.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ireland/R_DSC01635.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Ireland/R_DSC01657.jpg",
+      "compressed_path": "./photos/Ireland/R_DSC01657.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ireland/R_DSC01657.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Ireland/R_DSC01658.jpg",
+      "compressed_path": "./photos/Ireland/R_DSC01658.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ireland/R_DSC01658.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Ireland/R_DSC01774.jpg",
+      "compressed_path": "./photos/Ireland/R_DSC01774.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ireland/R_DSC01774.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Ireland/R_DSC01782.jpg",
+      "compressed_path": "./photos/Ireland/R_DSC01782.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ireland/R_DSC01782.placeholder.jpg"
+    },
+    {
+      "width": 3886,
+      "height": 2915,
+      "path": "./photos/Ireland/R_IMG_20170609_210154.jpg",
+      "compressed_path": "./photos/Ireland/R_IMG_20170609_210154.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ireland/R_IMG_20170609_210154.placeholder.jpg"
+    }
+  ],
+  "Israel and Jordan": [
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC03573.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC03573.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC03573.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC03590.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC03590.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC03590.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC03616.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC03616.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC03616.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC03704.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC03704.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC03704.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC03754.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC03754.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC03754.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC03807.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC03807.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC03807.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC03900.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC03900.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC03900.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04062.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04062.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04062.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04088.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04088.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04088.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC04125.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04125.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04125.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04147.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04147.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04147.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04149.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04149.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04149.placeholder.jpg"
+    },
+    {
+      "width": 3463,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC04151.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04151.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04151.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC04152.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04152.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04152.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC04163.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04163.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04163.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04171.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04171.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04171.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC04249.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04249.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04249.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC04365.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04365.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04365.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04379.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04379.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04379.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04385.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04385.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04385.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04439.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04439.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04439.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC04457.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04457.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04457.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC04470.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04470.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04470.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04480.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04480.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04480.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04499.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04499.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04499.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC04507.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04507.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04507.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04513.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04513.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04513.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04541.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04541.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04541.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04578.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04578.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04578.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC04586.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04586.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04586.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC04591.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04591.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04591.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04598.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04598.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04598.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04603.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04603.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04603.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04610.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04610.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04610.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04616.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04616.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04616.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC04619.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04619.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04619.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC04622.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04622.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04622.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC04646.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04646.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04646.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04664.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04664.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04664.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC04670.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04670.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04670.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04683.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04683.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04683.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04692.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04692.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04692.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Israel and Jordan/R_DSC04702.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04702.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04702.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Israel and Jordan/R_DSC04727.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_DSC04727.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_DSC04727.placeholder.jpg"
+    },
+    {
+      "width": 4061,
+      "height": 3046,
+      "path": "./photos/Israel and Jordan/R_YDXJ0068.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0068.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0068.placeholder.jpg"
+    },
+    {
+      "width": 2818,
+      "height": 2114,
+      "path": "./photos/Israel and Jordan/R_YDXJ0110.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0110.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0110.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Israel and Jordan/R_YDXJ0247.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0247.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0247.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Israel and Jordan/R_YDXJ0297.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0297.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0297.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Israel and Jordan/R_YDXJ0312.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0312.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0312.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Israel and Jordan/R_YDXJ0326.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0326.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0326.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Israel and Jordan/R_YDXJ0353.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0353.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0353.placeholder.jpg"
+    },
+    {
+      "width": 3371,
+      "height": 2528,
+      "path": "./photos/Israel and Jordan/R_YDXJ0669.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0669.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0669.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Israel and Jordan/R_YDXJ0678.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0678.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0678.placeholder.jpg"
+    },
+    {
+      "width": 3390,
+      "height": 2543,
+      "path": "./photos/Israel and Jordan/R_YDXJ0715.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0715.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0715.placeholder.jpg"
+    },
+    {
+      "width": 2722,
+      "height": 2042,
+      "path": "./photos/Israel and Jordan/R_YDXJ0723.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0723.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0723.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Israel and Jordan/R_YDXJ0747.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0747.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0747.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Israel and Jordan/R_YDXJ0752.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0752.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0752.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Israel and Jordan/R_YDXJ0755.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0755.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0755.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Israel and Jordan/R_YDXJ0759.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0759.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0759.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Israel and Jordan/R_YDXJ0785.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0785.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0785.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Israel and Jordan/R_YDXJ0796.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0796.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0796.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Israel and Jordan/R_YDXJ0800.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0800.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0800.placeholder.jpg"
+    },
+    {
+      "width": 2997,
+      "height": 2248,
+      "path": "./photos/Israel and Jordan/R_YDXJ0805.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0805.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0805.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Israel and Jordan/R_YDXJ0827.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0827.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0827.placeholder.jpg"
+    },
+    {
+      "width": 3601,
+      "height": 2701,
+      "path": "./photos/Israel and Jordan/R_YDXJ0842.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0842.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0842.placeholder.jpg"
+    },
+    {
+      "width": 4109,
+      "height": 3082,
+      "path": "./photos/Israel and Jordan/R_YDXJ0877.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0877.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0877.placeholder.jpg"
+    },
+    {
+      "width": 4148,
+      "height": 3111,
+      "path": "./photos/Israel and Jordan/R_YDXJ0884.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0884.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0884.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Israel and Jordan/R_YDXJ0900.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0900.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0900.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Israel and Jordan/R_YDXJ0925.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0925.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0925.placeholder.jpg"
+    },
+    {
+      "width": 3943,
+      "height": 2957,
+      "path": "./photos/Israel and Jordan/R_YDXJ0997.jpg",
+      "compressed_path": "./photos/Israel and Jordan/R_YDXJ0997.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Israel and Jordan/R_YDXJ0997.placeholder.jpg"
+    }
+  ],
+  "Japan": [
+    {
+      "width": 1952,
+      "height": 1157,
+      "path": "./photos/Japan/14362556_10208888506681237_7194011696716717533_o.jpg",
+      "compressed_path": "./photos/Japan/14362556_10208888506681237_7194011696716717533_o.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/14362556_10208888506681237_7194011696716717533_o.placeholder.jpg"
+    },
+    {
+      "width": 3883,
+      "height": 3883,
+      "path": "./photos/Japan/IMG_20160904_231118.jpg",
+      "compressed_path": "./photos/Japan/IMG_20160904_231118.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/IMG_20160904_231118.placeholder.jpg"
+    },
+    {
+      "width": 3888,
+      "height": 3888,
+      "path": "./photos/Japan/IMG_20160906_144604.jpg",
+      "compressed_path": "./photos/Japan/IMG_20160906_144604.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/IMG_20160906_144604.placeholder.jpg"
+    },
+    {
+      "width": 3888,
+      "height": 3888,
+      "path": "./photos/Japan/IMG_20160908_165443.jpg",
+      "compressed_path": "./photos/Japan/IMG_20160908_165443.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/IMG_20160908_165443.placeholder.jpg"
+    },
+    {
+      "width": 3888,
+      "height": 3888,
+      "path": "./photos/Japan/IMG_20160909_102936.jpg",
+      "compressed_path": "./photos/Japan/IMG_20160909_102936.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/IMG_20160909_102936.placeholder.jpg"
+    },
+    {
+      "width": 4469,
+      "height": 3579,
+      "path": "./photos/Japan/IMG_20160909_202254.jpg",
+      "compressed_path": "./photos/Japan/IMG_20160909_202254.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/IMG_20160909_202254.placeholder.jpg"
+    },
+    {
+      "width": 4604,
+      "height": 3474,
+      "path": "./photos/Japan/IMG_20160910_190411.jpg",
+      "compressed_path": "./photos/Japan/IMG_20160910_190411.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/IMG_20160910_190411.placeholder.jpg"
+    },
+    {
+      "width": 3888,
+      "height": 3888,
+      "path": "./photos/Japan/IMG_20160912_205731.jpg",
+      "compressed_path": "./photos/Japan/IMG_20160912_205731.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/IMG_20160912_205731.placeholder.jpg"
+    },
+    {
+      "width": 4604,
+      "height": 3474,
+      "path": "./photos/Japan/IMG_20160912_214243.jpg",
+      "compressed_path": "./photos/Japan/IMG_20160912_214243.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/IMG_20160912_214243.placeholder.jpg"
+    },
+    {
+      "width": 4310,
+      "height": 3233,
+      "path": "./photos/Japan/P1020265_HDR.jpg",
+      "compressed_path": "./photos/Japan/P1020265_HDR.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/P1020265_HDR.placeholder.jpg"
+    },
+    {
+      "width": 3493,
+      "height": 4657,
+      "path": "./photos/Japan/R_DSC02577.jpg",
+      "compressed_path": "./photos/Japan/R_DSC02577.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_DSC02577.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Japan/R_DSC02595.jpg",
+      "compressed_path": "./photos/Japan/R_DSC02595.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_DSC02595.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Japan/R_DSC02601.jpg",
+      "compressed_path": "./photos/Japan/R_DSC02601.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_DSC02601.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Japan/R_DSC02645.jpg",
+      "compressed_path": "./photos/Japan/R_DSC02645.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_DSC02645.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Japan/R_DSC02649.jpg",
+      "compressed_path": "./photos/Japan/R_DSC02649.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_DSC02649.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Japan/R_DSC02742.jpg",
+      "compressed_path": "./photos/Japan/R_DSC02742.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_DSC02742.placeholder.jpg"
+    },
+    {
+      "width": 5102,
+      "height": 2870,
+      "path": "./photos/Japan/R_DSC02762.jpg",
+      "compressed_path": "./photos/Japan/R_DSC02762.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_DSC02762.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Japan/R_DSC02829.jpg",
+      "compressed_path": "./photos/Japan/R_DSC02829.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_DSC02829.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Japan/R_DSC02852.jpg",
+      "compressed_path": "./photos/Japan/R_DSC02852.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_DSC02852.placeholder.jpg"
+    },
+    {
+      "width": 3463,
+      "height": 4618,
+      "path": "./photos/Japan/R_DSC02970.jpg",
+      "compressed_path": "./photos/Japan/R_DSC02970.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_DSC02970.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Japan/R_DSC03028.jpg",
+      "compressed_path": "./photos/Japan/R_DSC03028.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_DSC03028.placeholder.jpg"
+    },
+    {
+      "width": 4580,
+      "height": 3435,
+      "path": "./photos/Japan/R_DSC03033.jpg",
+      "compressed_path": "./photos/Japan/R_DSC03033.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_DSC03033.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Japan/R_DSC03046.jpg",
+      "compressed_path": "./photos/Japan/R_DSC03046.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_DSC03046.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Japan/R_DSC03067.jpg",
+      "compressed_path": "./photos/Japan/R_DSC03067.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_DSC03067.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Japan/R_DSC03082.jpg",
+      "compressed_path": "./photos/Japan/R_DSC03082.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_DSC03082.placeholder.jpg"
+    },
+    {
+      "width": 4435,
+      "height": 3326,
+      "path": "./photos/Japan/R_YDXJ0054.jpg",
+      "compressed_path": "./photos/Japan/R_YDXJ0054.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_YDXJ0054.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Japan/R_YDXJ0123.jpg",
+      "compressed_path": "./photos/Japan/R_YDXJ0123.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_YDXJ0123.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Japan/R_YDXJ0179.jpg",
+      "compressed_path": "./photos/Japan/R_YDXJ0179.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_YDXJ0179.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Japan/R_YDXJ0205.jpg",
+      "compressed_path": "./photos/Japan/R_YDXJ0205.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_YDXJ0205.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Japan/R_YDXJ0244.jpg",
+      "compressed_path": "./photos/Japan/R_YDXJ0244.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_YDXJ0244.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Japan/R_YDXJ0259.jpg",
+      "compressed_path": "./photos/Japan/R_YDXJ0259.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_YDXJ0259.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Japan/R_YDXJ0349.jpg",
+      "compressed_path": "./photos/Japan/R_YDXJ0349.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_YDXJ0349.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Japan/R_YDXJ0354.jpg",
+      "compressed_path": "./photos/Japan/R_YDXJ0354.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_YDXJ0354.placeholder.jpg"
+    },
+    {
+      "width": 4397,
+      "height": 3298,
+      "path": "./photos/Japan/R_YDXJ0403.jpg",
+      "compressed_path": "./photos/Japan/R_YDXJ0403.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_YDXJ0403.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 2592,
+      "path": "./photos/Japan/R_YDXJ0514.jpg",
+      "compressed_path": "./photos/Japan/R_YDXJ0514.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_YDXJ0514.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 2592,
+      "path": "./photos/Japan/R_YDXJ0533.jpg",
+      "compressed_path": "./photos/Japan/R_YDXJ0533.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_YDXJ0533.placeholder.jpg"
+    },
+    {
+      "width": 4330,
+      "height": 2435,
+      "path": "./photos/Japan/R_YDXJ0566.jpg",
+      "compressed_path": "./photos/Japan/R_YDXJ0566.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_YDXJ0566.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Japan/R_YDXJ0576.jpg",
+      "compressed_path": "./photos/Japan/R_YDXJ0576.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_YDXJ0576.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Japan/R_YDXJ0685.jpg",
+      "compressed_path": "./photos/Japan/R_YDXJ0685.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_YDXJ0685.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Japan/R_YDXJ0710.jpg",
+      "compressed_path": "./photos/Japan/R_YDXJ0710.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Japan/R_YDXJ0710.placeholder.jpg"
+    }
+  ],
+  "Kirghizistan": [
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC02101.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02101.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02101.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Kirghizistan/R_DSC02106.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02106.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02106.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC02122.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02122.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02122.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02166.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02166.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02166.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC02189.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02189.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02189.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02197.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02197.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02197.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC02228.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02228.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02228.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC02242.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02242.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02242.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC02244.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02244.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02244.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02291.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02291.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02291.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Kirghizistan/R_DSC02303.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02303.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02303.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC02307.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02307.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02307.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02315.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02315.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02315.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Kirghizistan/R_DSC02351.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02351.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02351.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02365.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02365.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02365.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC02373.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02373.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02373.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02395.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02395.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02395.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02398.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02398.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02398.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02406.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02406.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02406.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Kirghizistan/R_DSC02408.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02408.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02408.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02411.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02411.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02411.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02416.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02416.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02416.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02425.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02425.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02425.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02436.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02436.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02436.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC02462.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02462.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02462.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02500.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02500.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02500.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02568.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02568.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02568.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02571.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02571.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02571.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02596.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02596.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02596.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC02612.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02612.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02612.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC02632.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02632.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02632.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Kirghizistan/R_DSC02664.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02664.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02664.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC02710.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02710.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02710.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02728.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02728.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02728.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC02782.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02782.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02782.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Kirghizistan/R_DSC02837.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02837.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02837.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC02925.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC02925.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC02925.placeholder.jpg"
+    },
+    {
+      "width": 5009,
+      "height": 2818,
+      "path": "./photos/Kirghizistan/R_DSC03073.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC03073.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC03073.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Kirghizistan/R_DSC03074.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC03074.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC03074.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC03177.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC03177.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC03177.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Kirghizistan/R_DSC03196.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC03196.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC03196.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC03225.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC03225.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC03225.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC03252.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC03252.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC03252.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC03266.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC03266.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC03266.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC03280.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC03280.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC03280.placeholder.jpg"
+    },
+    {
+      "width": 3877,
+      "height": 2908,
+      "path": "./photos/Kirghizistan/R_DSC03288.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC03288.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC03288.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Kirghizistan/R_DSC03332.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_DSC03332.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_DSC03332.placeholder.jpg"
+    },
+    {
+      "width": 7512,
+      "height": 2129,
+      "path": "./photos/Kirghizistan/R_IMG_20170825_120051.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_IMG_20170825_120051.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_IMG_20170825_120051.placeholder.jpg"
+    },
+    {
+      "width": 8444,
+      "height": 1894,
+      "path": "./photos/Kirghizistan/R_IMG_20170827_174155.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_IMG_20170827_174155.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_IMG_20170827_174155.placeholder.jpg"
+    },
+    {
+      "width": 3968,
+      "height": 2976,
+      "path": "./photos/Kirghizistan/R_IMG_20170827_174209.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_IMG_20170827_174209.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_IMG_20170827_174209.placeholder.jpg"
+    },
+    {
+      "width": 8401,
+      "height": 1904,
+      "path": "./photos/Kirghizistan/R_IMG_20170828_142256.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_IMG_20170828_142256.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_IMG_20170828_142256.placeholder.jpg"
+    },
+    {
+      "width": 8246,
+      "height": 1940,
+      "path": "./photos/Kirghizistan/R_IMG_20170830_113411.jpg",
+      "compressed_path": "./photos/Kirghizistan/R_IMG_20170830_113411.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Kirghizistan/R_IMG_20170830_113411.placeholder.jpg"
+    }
+  ],
+  "Madeira": [
+    {
+      "width": 3648,
+      "height": 2052,
+      "path": "./photos/Madeira/R_DSC00351.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00351.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00351.placeholder.jpg"
+    },
+    {
+      "width": 3648,
+      "height": 2736,
+      "path": "./photos/Madeira/R_DSC00363.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00363.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00363.placeholder.jpg"
+    },
+    {
+      "width": 3648,
+      "height": 2052,
+      "path": "./photos/Madeira/R_DSC00404.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00404.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00404.placeholder.jpg"
+    },
+    {
+      "width": 3648,
+      "height": 2736,
+      "path": "./photos/Madeira/R_DSC00438.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00438.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00438.placeholder.jpg"
+    },
+    {
+      "width": 3648,
+      "height": 2736,
+      "path": "./photos/Madeira/R_DSC00440.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00440.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00440.placeholder.jpg"
+    },
+    {
+      "width": 3648,
+      "height": 2736,
+      "path": "./photos/Madeira/R_DSC00504.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00504.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00504.placeholder.jpg"
+    },
+    {
+      "width": 2736,
+      "height": 3648,
+      "path": "./photos/Madeira/R_DSC00516.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00516.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00516.placeholder.jpg"
+    },
+    {
+      "width": 3648,
+      "height": 2280,
+      "path": "./photos/Madeira/R_DSC00540.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00540.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00540.placeholder.jpg"
+    },
+    {
+      "width": 3648,
+      "height": 2736,
+      "path": "./photos/Madeira/R_DSC00543.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00543.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00543.placeholder.jpg"
+    },
+    {
+      "width": 2736,
+      "height": 3648,
+      "path": "./photos/Madeira/R_DSC00567.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00567.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00567.placeholder.jpg"
+    },
+    {
+      "width": 3648,
+      "height": 2736,
+      "path": "./photos/Madeira/R_DSC00587.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00587.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00587.placeholder.jpg"
+    },
+    {
+      "width": 3009,
+      "height": 2257,
+      "path": "./photos/Madeira/R_DSC00588.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00588.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00588.placeholder.jpg"
+    },
+    {
+      "width": 3648,
+      "height": 2736,
+      "path": "./photos/Madeira/R_DSC00609.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00609.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00609.placeholder.jpg"
+    },
+    {
+      "width": 3511,
+      "height": 2633,
+      "path": "./photos/Madeira/R_DSC00617.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00617.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00617.placeholder.jpg"
+    },
+    {
+      "width": 3648,
+      "height": 2052,
+      "path": "./photos/Madeira/R_DSC00796.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00796.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00796.placeholder.jpg"
+    },
+    {
+      "width": 3648,
+      "height": 2052,
+      "path": "./photos/Madeira/R_DSC00827.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00827.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00827.placeholder.jpg"
+    },
+    {
+      "width": 3648,
+      "height": 2052,
+      "path": "./photos/Madeira/R_DSC00881.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00881.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00881.placeholder.jpg"
+    },
+    {
+      "width": 2736,
+      "height": 3648,
+      "path": "./photos/Madeira/R_DSC00990.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC00990.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC00990.placeholder.jpg"
+    },
+    {
+      "width": 3648,
+      "height": 2052,
+      "path": "./photos/Madeira/R_DSC01172.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC01172.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC01172.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Madeira/R_DSC01230.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC01230.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC01230.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Madeira/R_DSC01254.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC01254.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC01254.placeholder.jpg"
+    },
+    {
+      "width": 5102,
+      "height": 2870,
+      "path": "./photos/Madeira/R_DSC01299.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC01299.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC01299.placeholder.jpg"
+    },
+    {
+      "width": 4616,
+      "height": 3465,
+      "path": "./photos/Madeira/R_DSC01353.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC01353.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC01353.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Madeira/R_DSC01369.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC01369.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC01369.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Madeira/R_DSC01397.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC01397.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC01397.placeholder.jpg"
+    },
+    {
+      "width": 4513,
+      "height": 2821,
+      "path": "./photos/Madeira/R_DSC01417.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC01417.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC01417.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Madeira/R_DSC01471.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC01471.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC01471.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Madeira/R_DSC01533.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC01533.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC01533.placeholder.jpg"
+    },
+    {
+      "width": 3463,
+      "height": 4618,
+      "path": "./photos/Madeira/R_DSC01563.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC01563.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC01563.placeholder.jpg"
+    },
+    {
+      "width": 5127,
+      "height": 2884,
+      "path": "./photos/Madeira/R_DSC01619.jpg",
+      "compressed_path": "./photos/Madeira/R_DSC01619.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_DSC01619.placeholder.jpg"
+    },
+    {
+      "width": 3968,
+      "height": 2240,
+      "path": "./photos/Madeira/R_IMG_20180513_141354.jpg",
+      "compressed_path": "./photos/Madeira/R_IMG_20180513_141354.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_IMG_20180513_141354.placeholder.jpg"
+    },
+    {
+      "width": 3968,
+      "height": 2240,
+      "path": "./photos/Madeira/R_IMG_20180514_144923.jpg",
+      "compressed_path": "./photos/Madeira/R_IMG_20180514_144923.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_IMG_20180514_144923.placeholder.jpg"
+    },
+    {
+      "width": 2222,
+      "height": 2963,
+      "path": "./photos/Madeira/R_IMG_20180517_094811.jpg",
+      "compressed_path": "./photos/Madeira/R_IMG_20180517_094811.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_IMG_20180517_094811.placeholder.jpg"
+    },
+    {
+      "width": 3968,
+      "height": 2232,
+      "path": "./photos/Madeira/R_IMG_20180518_100552.jpg",
+      "compressed_path": "./photos/Madeira/R_IMG_20180518_100552.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_IMG_20180518_100552.placeholder.jpg"
+    },
+    {
+      "width": 2976,
+      "height": 3968,
+      "path": "./photos/Madeira/R_IMG_20180518_223225.jpg",
+      "compressed_path": "./photos/Madeira/R_IMG_20180518_223225.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Madeira/R_IMG_20180518_223225.placeholder.jpg"
+    }
+  ],
+  "Morroco": [
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00042.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00042.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00042.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00138.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00138.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00138.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Morroco/R_DSC00162.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00162.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00162.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Morroco/R_DSC00173.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00173.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00173.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00211.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00211.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00211.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00227.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00227.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00227.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00301.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00301.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00301.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Morroco/R_DSC00317.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00317.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00317.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Morroco/R_DSC00321.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00321.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00321.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Morroco/R_DSC00326.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00326.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00326.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00327.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00327.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00327.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Morroco/R_DSC00332.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00332.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00332.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Morroco/R_DSC00355.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00355.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00355.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00381.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00381.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00381.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00394.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00394.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00394.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Morroco/R_DSC00416.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00416.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00416.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00418.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00418.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00418.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00425.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00425.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00425.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00428.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00428.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00428.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Morroco/R_DSC00434.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00434.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00434.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00443.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00443.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00443.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00454.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00454.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00454.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Morroco/R_DSC00466.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00466.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00466.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00471.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00471.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00471.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Morroco/R_DSC00487.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00487.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00487.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00533.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00533.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00533.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00589.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00589.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00589.placeholder.jpg"
+    },
+    {
+      "width": 5038,
+      "height": 2834,
+      "path": "./photos/Morroco/R_DSC00602.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00602.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00602.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00632.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00632.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00632.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Morroco/R_DSC00679.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00679.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00679.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00692.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00692.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00692.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Morroco/R_DSC00693.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00693.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00693.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00704.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00704.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00704.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Morroco/R_DSC00763.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00763.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00763.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Morroco/R_DSC00843.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00843.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00843.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Morroco/R_DSC00852.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00852.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00852.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Morroco/R_DSC00869.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00869.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00869.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Morroco/R_DSC00873.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00873.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00873.placeholder.jpg"
+    },
+    {
+      "width": 5034,
+      "height": 2832,
+      "path": "./photos/Morroco/R_DSC00919.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00919.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00919.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00973.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00973.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00973.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00976.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00976.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00976.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Morroco/R_DSC00977.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00977.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00977.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Morroco/R_DSC00983.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC00983.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC00983.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Morroco/R_DSC01010.jpg",
+      "compressed_path": "./photos/Morroco/R_DSC01010.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Morroco/R_DSC01010.placeholder.jpg"
+    }
+  ],
+  "Thailand": [
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Thailand/R_P1000736.jpg",
+      "compressed_path": "./photos/Thailand/R_P1000736.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Thailand/R_P1000736.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Thailand/R_P1000758.jpg",
+      "compressed_path": "./photos/Thailand/R_P1000758.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Thailand/R_P1000758.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Thailand/R_P1000762.jpg",
+      "compressed_path": "./photos/Thailand/R_P1000762.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Thailand/R_P1000762.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Thailand/R_P1000914.jpg",
+      "compressed_path": "./photos/Thailand/R_P1000914.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Thailand/R_P1000914.placeholder.jpg"
+    },
+    {
+      "width": 4462,
+      "height": 3347,
+      "path": "./photos/Thailand/R_P1000949.jpg",
+      "compressed_path": "./photos/Thailand/R_P1000949.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Thailand/R_P1000949.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Thailand/R_P1010040.jpg",
+      "compressed_path": "./photos/Thailand/R_P1010040.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Thailand/R_P1010040.placeholder.jpg"
+    },
+    {
+      "width": 3757,
+      "height": 2818,
+      "path": "./photos/Thailand/R_P1010126.jpg",
+      "compressed_path": "./photos/Thailand/R_P1010126.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Thailand/R_P1010126.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Thailand/R_P1010131.jpg",
+      "compressed_path": "./photos/Thailand/R_P1010131.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Thailand/R_P1010131.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Thailand/R_P1010162.jpg",
+      "compressed_path": "./photos/Thailand/R_P1010162.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Thailand/R_P1010162.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Thailand/R_P1010165.jpg",
+      "compressed_path": "./photos/Thailand/R_P1010165.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Thailand/R_P1010165.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Thailand/R_P1010185.jpg",
+      "compressed_path": "./photos/Thailand/R_P1010185.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Thailand/R_P1010185.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Thailand/R_P1010240.jpg",
+      "compressed_path": "./photos/Thailand/R_P1010240.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Thailand/R_P1010240.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Thailand/R_P1010345.jpg",
+      "compressed_path": "./photos/Thailand/R_P1010345.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Thailand/R_P1010345.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Thailand/R_P1010381.jpg",
+      "compressed_path": "./photos/Thailand/R_P1010381.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Thailand/R_P1010381.placeholder.jpg"
+    },
+    {
+      "width": 4334,
+      "height": 3294,
+      "path": "./photos/Thailand/R_P1010424.jpg",
+      "compressed_path": "./photos/Thailand/R_P1010424.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Thailand/R_P1010424.placeholder.jpg"
+    },
+    {
+      "width": 3741,
+      "height": 2806,
+      "path": "./photos/Thailand/R_P1010576.jpg",
+      "compressed_path": "./photos/Thailand/R_P1010576.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Thailand/R_P1010576.placeholder.jpg"
+    }
+  ],
+  "Turkey": [
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00004.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00004.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00004.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00018.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00018.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00018.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00028.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00028.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00028.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Turkey/R_DSC00036.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00036.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00036.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Turkey/R_DSC00054.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00054.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00054.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00061.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00061.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00061.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Turkey/R_DSC00073.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00073.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00073.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00075.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00075.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00075.placeholder.jpg"
+    },
+    {
+      "width": 5134,
+      "height": 2888,
+      "path": "./photos/Turkey/R_DSC00081.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00081.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00081.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Turkey/R_DSC00083.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00083.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00083.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00085.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00085.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00085.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Turkey/R_DSC00094.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00094.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00094.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00106.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00106.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00106.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00125.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00125.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00125.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Turkey/R_DSC00141.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00141.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00141.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00160.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00160.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00160.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Turkey/R_DSC00164.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00164.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00164.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00189.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00189.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00189.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00204.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00204.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00204.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00217.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00217.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00217.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Turkey/R_DSC00224.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00224.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00224.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00259.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00259.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00259.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00265.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00265.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00265.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Turkey/R_DSC00277.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00277.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00277.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Turkey/R_DSC00281.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00281.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00281.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00284.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00284.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00284.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Turkey/R_DSC00290.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00290.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00290.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00293.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00293.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00293.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Turkey/R_DSC00317.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00317.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00317.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00331.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00331.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00331.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00362.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00362.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00362.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00367.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00367.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00367.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00370.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00370.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00370.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Turkey/R_DSC00374.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00374.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00374.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Turkey/R_DSC00384.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00384.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00384.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Turkey/R_DSC00385.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00385.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00385.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00420.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00420.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00420.placeholder.jpg"
+    },
+    {
+      "width": 3464,
+      "height": 4618,
+      "path": "./photos/Turkey/R_DSC00432.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00432.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00432.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Turkey/R_DSC00433.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00433.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00433.placeholder.jpg"
+    },
+    {
+      "width": 5152,
+      "height": 2898,
+      "path": "./photos/Turkey/R_DSC00442.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00442.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00442.placeholder.jpg"
+    },
+    {
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Turkey/R_DSC00453.jpg",
+      "compressed_path": "./photos/Turkey/R_DSC00453.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_DSC00453.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Turkey/R_YDXJ0396.jpg",
+      "compressed_path": "./photos/Turkey/R_YDXJ0396.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_YDXJ0396.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Turkey/R_YDXJ0434.jpg",
+      "compressed_path": "./photos/Turkey/R_YDXJ0434.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_YDXJ0434.placeholder.jpg"
+    },
+    {
+      "width": 4415,
+      "height": 3311,
+      "path": "./photos/Turkey/R_YDXJ0453.jpg",
+      "compressed_path": "./photos/Turkey/R_YDXJ0453.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_YDXJ0453.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/Turkey/R_YDXJ0460.jpg",
+      "compressed_path": "./photos/Turkey/R_YDXJ0460.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Turkey/R_YDXJ0460.placeholder.jpg"
     }
   ]
 }
